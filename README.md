@@ -1,7 +1,7 @@
 # BlackHoodie 2018 Workshop
 ## Capture The Flag - An Introduction To Binary Exploitation
 
-Slides and challenges for my binary exploitation workshop at [BlackHoodie 2018](https://www.blackhoodie.re/).
+[Slides](https://github.com/tharina/BlackHoodie-2018-Workshop/raw/master/BlackHoodie2018CTF.pdf) and challenges for my binary exploitation workshop at [BlackHoodie 2018](https://www.blackhoodie.re/).
 
 Note: The challenges are no longer running on ctf.katharina-maennle.de. See the following instructions to set up your own environment.
 
